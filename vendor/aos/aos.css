@@ -841,7 +841,7 @@
 }
 
 [data-aos^=zoom][data-aos^=zoom] {
-    opacity: 0;
+    opacity: 1;
     transition-property: opacity,transform
 }
 
