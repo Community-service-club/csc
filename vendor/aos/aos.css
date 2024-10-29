@@ -809,7 +809,7 @@
 }
 
 [data-aos=fade-up] {
-    /* transform: translate3d(0,100px,0); */
+     transform: translate3d(1,100px,1); 
 }
 
 [data-aos=fade-down] {
